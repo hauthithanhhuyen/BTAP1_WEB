@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Bộ chuyển đổi số → chữ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+
+        h2 {
+            color: darkblue;
+        }
+
+        input, button {
+            font-size: 16px;
+            padding: 6px;
+        }
+
+        #result {
+            margin-top: 20px;
+            font-size: 18px;
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h2>🔢 Bộ chuyển đổi số → chữ (Tiếng Việt)</h2>
+    <input type="text" id="number" placeholder="Nhập số cần chuyển đổi">
+    <button onclick="convertNumber()">Chuyển đổi</button>
+
+    <div id="result">👉 Kết quả sẽ hiển thị ở đây</div>
+
+    <script>
+        function convertNumber() {
+            var num = document.getElementById("number").value;
+            fetch("api.aspx", {
+                method: "POST",
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: "number=" + encodeURIComponent(num)
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        document.getElementById("result").innerText = "👉 " + decodeURIComponent(data.result);
+                    } else {
+                        document.getElementById("result").innerText = "❌ " + decodeURIComponent(data.result);
+                    }
+                })
+                .catch(err => {
+                    document.getElementById("result").innerText = "⚠️ Lỗi kết nối API!";
+                });
+        }
+    </script>
+</body>
+</html>

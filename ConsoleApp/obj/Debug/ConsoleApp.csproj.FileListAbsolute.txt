@@ -1,0 +1,9 @@
+F:\bt1\NumberToWordsSolution\ConsoleApp\bin\Debug\ConsoleApp.exe
+F:\bt1\NumberToWordsSolution\ConsoleApp\bin\Debug\ConsoleApp.pdb
+F:\bt1\NumberToWordsSolution\ConsoleApp\bin\Debug\MyNumberLib.dll
+F:\bt1\NumberToWordsSolution\ConsoleApp\bin\Debug\MyNumberLib.pdb
+F:\bt1\NumberToWordsSolution\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+F:\bt1\NumberToWordsSolution\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+F:\bt1\NumberToWordsSolution\ConsoleApp\obj\Debug\ConsoleApp.csproj.Up2Date
+F:\bt1\NumberToWordsSolution\ConsoleApp\obj\Debug\ConsoleApp.exe
+F:\bt1\NumberToWordsSolution\ConsoleApp\obj\Debug\ConsoleApp.pdb

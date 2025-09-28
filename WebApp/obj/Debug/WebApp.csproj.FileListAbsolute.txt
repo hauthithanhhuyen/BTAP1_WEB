@@ -1,0 +1,10 @@
+F:\bt1\NumberToWordsSolution\WebApp\obj\Debug\WebApp.csproj.AssemblyReference.cache
+F:\bt1\NumberToWordsSolution\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+F:\bt1\NumberToWordsSolution\WebApp\bin\WebApp.dll.config
+F:\bt1\NumberToWordsSolution\WebApp\bin\WebApp.dll
+F:\bt1\NumberToWordsSolution\WebApp\bin\WebApp.pdb
+F:\bt1\NumberToWordsSolution\WebApp\bin\MyNumberLib.dll
+F:\bt1\NumberToWordsSolution\WebApp\bin\MyNumberLib.pdb
+F:\bt1\NumberToWordsSolution\WebApp\obj\Debug\WebApp.csproj.Up2Date
+F:\bt1\NumberToWordsSolution\WebApp\obj\Debug\WebApp.dll
+F:\bt1\NumberToWordsSolution\WebApp\obj\Debug\WebApp.pdb

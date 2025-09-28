@@ -1,0 +1,6 @@
+F:\bt1\NumberToWordsSolution\MyNumberLib\bin\Debug\MyNumberLib.dll
+F:\bt1\NumberToWordsSolution\MyNumberLib\bin\Debug\MyNumberLib.pdb
+F:\bt1\NumberToWordsSolution\MyNumberLib\obj\Debug\MyNumberLib.csproj.AssemblyReference.cache
+F:\bt1\NumberToWordsSolution\MyNumberLib\obj\Debug\MyNumberLib.csproj.CoreCompileInputs.cache
+F:\bt1\NumberToWordsSolution\MyNumberLib\obj\Debug\MyNumberLib.dll
+F:\bt1\NumberToWordsSolution\MyNumberLib\obj\Debug\MyNumberLib.pdb

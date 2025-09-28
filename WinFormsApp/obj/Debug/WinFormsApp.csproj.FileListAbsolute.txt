@@ -1,0 +1,12 @@
+F:\bt1\NumberToWordsSolution\WinFormsApp\bin\Debug\WinFormsApp.exe
+F:\bt1\NumberToWordsSolution\WinFormsApp\bin\Debug\WinFormsApp.pdb
+F:\bt1\NumberToWordsSolution\WinFormsApp\bin\Debug\MyNumberLib.dll
+F:\bt1\NumberToWordsSolution\WinFormsApp\bin\Debug\MyNumberLib.pdb
+F:\bt1\NumberToWordsSolution\WinFormsApp\obj\Debug\WinFormsApp.csproj.AssemblyReference.cache
+F:\bt1\NumberToWordsSolution\WinFormsApp\obj\Debug\WinFormApp.Form1.resources
+F:\bt1\NumberToWordsSolution\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+F:\bt1\NumberToWordsSolution\WinFormsApp\obj\Debug\WinFormsApp.csproj.GenerateResource.cache
+F:\bt1\NumberToWordsSolution\WinFormsApp\obj\Debug\WinFormsApp.csproj.CoreCompileInputs.cache
+F:\bt1\NumberToWordsSolution\WinFormsApp\obj\Debug\WinForms.79E25943.Up2Date
+F:\bt1\NumberToWordsSolution\WinFormsApp\obj\Debug\WinFormsApp.exe
+F:\bt1\NumberToWordsSolution\WinFormsApp\obj\Debug\WinFormsApp.pdb
