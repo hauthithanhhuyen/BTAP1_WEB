@@ -1,10 +1,13 @@
 # BTAP1_WEB
 Hầu Thị Thanh Huyền
 DLL đa năng, keyword: c# window library -> Class Library (.NET Framework) bắt buộc sử dụng .NET Framework 2.0: giải bài toán bất kỳ, độc lạ càng tốt, phải có dấu ấn cá nhân trong kết quả, biên dịch ra DLL. DLL độc lập vì nó ko nhập, ko xuất, nó nhận input truyền vào thuộc tính của nó, và trả về dữ liệu thông qua thuộc tính khác, hoặc thông qua giá trị trả về của hàm. Nó độc lập thì sẽ sử dụng được trên app dạng console (giao diện dòng lệnh - đen sì), cũng sử dụng được trên app desktop (dạng cửa sổ), và cũng sử dụng được trên web form (web chạy qua iis).
+
 Console app, bắt buộc sử dụng .NET Framework 2.0, sử dụng được DLL trên: nhập được input, gọi DLL, hiển thị kết quả, phải có dấu án cá nhân. keyword: c# window Console => Console App (.NET Framework), biên dịch ra EXE
+
 Windows Form Application, bắt buộc sử dụng .NET Framework 2.0**, sử dụng được DLL đa năng trên, kéo các control vào để có thể lấy đc input, gọi DLL truyền input để lấy đc kq, hiển thị kq ra window form, phải có dấu án cá nhân; keyword: c# window Desktop => Windows Form Application (.NET Framework), biên dịch ra EXE
 
 Web đơn giản, bắt buộc sử dụng .NET Framework 2.0, sử dụng web server là IIS, dùng file hosts để tự tạo domain, gắn domain này vào iis, file index.html có sử dụng html css js để xây dựng giao diện nhập được các input cho bài toán, dùng mã js để tiền xử lý dữ liệu, js để gửi lên backend. backend là api.aspx, trong code của api.aspx.cs thì lấy được các input mà js gửi lên, rồi sử dụng được DLL đa năng trên. kết quả gửi lại json cho client, js phía client sẽ nhận được json này hậu xử lý để thay đổi giao diện theo dữ liệu nhận dược, phải có dấu án cá nhân. keyword: c# window web => ASP.NET Web Application (.NET Framework) + tham khảo link chatgpt thầy gửi. project web này biên dịch ra DLL, phải kết hợp với IIS mới chạy được.
+
 # BÀI LÀM
 
 # 1.Tải ứng dụng virual code studio 2022
@@ -42,11 +45,32 @@ B4.Tìm ASP.NET Web Application (.NET Framework 2.0) tên là WebApp:(Ứng dụ
 <img width="851" height="270" alt="{02BA1FCE-BEC0-44D9-9774-E75F9072427E}" src="https://github.com/user-attachments/assets/0e3ceda3-3f0d-4788-99a3-7396eac4d243" />
 
 #  WinFormsApp
+
 Đã biên dịch ra EXE
+
 <img width="939" height="350" alt="{DDE692CF-3374-413E-93BB-C4D45605C0A2}" src="https://github.com/user-attachments/assets/56f17810-fef5-43ef-a3c4-a744d0f2d4a2" />
+
 Kết quả
 <img width="1576" height="895" alt="{11180762-D0C3-4C4F-A728-4886A5FBA6FF}" src="https://github.com/user-attachments/assets/b13e1906-e7f5-4746-80ba-67560b0aeb3a" />
 
+# WebApp
+1.Sử dụng web server là IIS
+
+<img width="1467" height="689" alt="{61E42566-F93A-4C60-A69A-0DEEF92D8E24}" src="https://github.com/user-attachments/assets/622f5114-db53-45fe-92fb-cad4f56e9df0" />
+
+2.Dùng file hosts để tự tạo domain
+
+<img width="872" height="656" alt="{D7361870-3130-472F-9616-116C894A6052}" src="https://github.com/user-attachments/assets/1913a013-43de-42f7-a92e-f72ccdd85954" />
+
+3.Domain này vào iis
+
+<img width="1108" height="565" alt="{00E5026F-A229-443D-B474-117B141F1882}" src="https://github.com/user-attachments/assets/138e8ea8-0b2c-466c-aa0d-62010e35693a" />
+
+4.File index.html có sử dụng html css js để xây dựng giao diện nhập được các input cho bài toán, dùng mã js để tiền xử lý dữ liệu, js để gửi lên backend. backend là api.aspx, trong code của api.aspx.cs thì lấy được các input mà js gửi lên, rồi sử dụng được DLL đa năng trên. 
+
+<img width="892" height="319" alt="{6F5741CB-73D7-4C57-BE01-0D1F47E834B0}" src="https://github.com/user-attachments/assets/7db59d47-e8f7-4f3b-b814-a5313bb73fd6" />
+ 
+ <img width="1457" height="321" alt="{40EA4ED4-FB8F-4436-BDDD-F97882B11283}" src="https://github.com/user-attachments/assets/757150f1-48b5-4b06-9a98-84bd9aa4afab" />
 
 
 
