@@ -41,7 +41,13 @@ B4.Tìm ASP.NET Web Application (.NET Framework 2.0) tên là WebApp:(Ứng dụ
 # MyNumberLib 
 <img width="851" height="270" alt="{02BA1FCE-BEC0-44D9-9774-E75F9072427E}" src="https://github.com/user-attachments/assets/0e3ceda3-3f0d-4788-99a3-7396eac4d243" />
 
-#  WebApp
+#  WinFormsApp
+Đã biên dịch ra EXE
+<img width="939" height="350" alt="{DDE692CF-3374-413E-93BB-C4D45605C0A2}" src="https://github.com/user-attachments/assets/56f17810-fef5-43ef-a3c4-a744d0f2d4a2" />
+Kết quả
+<img width="1576" height="895" alt="{11180762-D0C3-4C4F-A728-4886A5FBA6FF}" src="https://github.com/user-attachments/assets/b13e1906-e7f5-4746-80ba-67560b0aeb3a" />
+
+
 
 
 
